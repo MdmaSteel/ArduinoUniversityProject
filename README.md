@@ -2,11 +2,11 @@
 
 Welcome to my implementation of game Remember the LED blink sequence and repeat it.
 
-To make it was used:\
-ARDUINO UNO controller;\
-Three LEDs;\
-Three buttons;\
-Display.\n
+**To make it was used**:\
+**ARDUINO UNO controller;**\
+**Three LEDs;**\
+**Three buttons;**\
+**Display.**\n
 
 ## Scheme in Proteus
 
