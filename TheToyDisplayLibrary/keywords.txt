@@ -1,0 +1,22 @@
+Display 	KEYWORD1
+
+LevelUP 	KEYWORD1
+
+LevelDown 	KEYWORD1
+
+NextLevel 	KEYWORD1
+
+Print 		KEYWORD1
+
+RepeatTheSequance 	KEYWORD1
+
+RememberTheNumbers 	KEYWORD1
+
+
+HelloDungeonMaster 	KEYWORD1
+
+Wrong 			KEYWORD1
+
+Correct 		KEYWORD1
+
+Instruction() 		KEYWORD1
