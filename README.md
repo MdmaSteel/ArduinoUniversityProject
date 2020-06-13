@@ -1,4 +1,4 @@
-##ArduinoUniversityProject
+## ArduinoUniversityProject
 
 Welcome to my implementation of game Remember the LED blink sequence and repeat it.
 
@@ -10,10 +10,8 @@ Display.\n
 
 ## Scheme in Proteus
 
-Here is a scheme of toy
+Here is a scheme of toy\
 ![Scheme in Proteus](/imgs/ProteusScheme.jpg)
 
-## Created Toy
-
-Assembled toy
+## Assembled toy
 ![Toy](/imgs/Toy.jpg)
